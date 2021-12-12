@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Swiggyclone/static/css/main.0400d3da.chunk.css",
+    "main.js": "/Swiggyclone/static/js/main.828b0b7a.chunk.js",
+    "main.js.map": "/Swiggyclone/static/js/main.828b0b7a.chunk.js.map",
+    "runtime-main.js": "/Swiggyclone/static/js/runtime-main.c35302a5.js",
+    "runtime-main.js.map": "/Swiggyclone/static/js/runtime-main.c35302a5.js.map",
+    "static/js/2.20d725d4.chunk.js": "/Swiggyclone/static/js/2.20d725d4.chunk.js",
+    "static/js/2.20d725d4.chunk.js.map": "/Swiggyclone/static/js/2.20d725d4.chunk.js.map",
+    "static/js/3.9d9b0b39.chunk.js": "/Swiggyclone/static/js/3.9d9b0b39.chunk.js",
+    "static/js/3.9d9b0b39.chunk.js.map": "/Swiggyclone/static/js/3.9d9b0b39.chunk.js.map",
+    "index.html": "/Swiggyclone/index.html",
+    "static/css/main.0400d3da.chunk.css.map": "/Swiggyclone/static/css/main.0400d3da.chunk.css.map",
+    "static/js/2.20d725d4.chunk.js.LICENSE.txt": "/Swiggyclone/static/js/2.20d725d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c35302a5.js",
+    "static/js/2.20d725d4.chunk.js",
+    "static/css/main.0400d3da.chunk.css",
+    "static/js/main.828b0b7a.chunk.js"
+  ]
+}
